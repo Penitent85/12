@@ -1,0 +1,8 @@
+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
+Penitent85
+penitent85@gmail.com
+
+
+git remote set-utl origin https://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@github.com/Penitent85/12
+
+sudo dpkg -i <>
